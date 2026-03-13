@@ -1,0 +1,137 @@
+{
+  "overview": {
+    "totalOrders": 1247,
+    "totalRevenue": 89650,
+    "avgOrderValue": 71.9,
+    "satisfactionRate": 94.2,
+    "ordersToday": 47,
+    "revenueToday": 3380
+  },
+  "topDishes": [
+    { "name": "Tajine Poulet", "orders": 187, "revenue": 15895, "rating": 4.7 },
+    {
+      "name": "Couscous Royal",
+      "orders": 165,
+      "revenue": 18150,
+      "rating": 4.8
+    },
+    {
+      "name": "Double Smash Halal",
+      "orders": 144,
+      "revenue": 11376,
+      "rating": 4.6
+    },
+    {
+      "name": "The a la Menthe",
+      "orders": 141,
+      "revenue": 2820,
+      "rating": 4.9
+    },
+    {
+      "name": "Wrap Poulet Grille",
+      "orders": 129,
+      "revenue": 6321,
+      "rating": 4.5
+    }
+  ],
+  "categoryBreakdown": [
+    { "category": "Plats Marocains", "percentage": 42, "orders": 523 },
+    { "category": "Plats Rapides", "percentage": 23, "orders": 287 },
+    { "category": "Boissons", "percentage": 16, "orders": 200 },
+    { "category": "Desserts", "percentage": 13, "orders": 162 },
+    { "category": "Entrees", "percentage": 6, "orders": 75 }
+  ],
+  "ordersTimeline": [
+    { "day": "Lun", "orders": 38, "revenue": 2736 },
+    { "day": "Mar", "orders": 44, "revenue": 3168 },
+    { "day": "Mer", "orders": 52, "revenue": 3744 },
+    { "day": "Jeu", "orders": 49, "revenue": 3528 },
+    { "day": "Ven", "orders": 64, "revenue": 4608 },
+    { "day": "Sam", "orders": 71, "revenue": 5112 },
+    { "day": "Dim", "orders": 57, "revenue": 4104 }
+  ],
+  "peakHours": [
+    { "hour": "12h", "orders": 23 },
+    { "hour": "13h", "orders": 31 },
+    { "hour": "19h", "orders": 28 },
+    { "hour": "20h", "orders": 35 }
+  ],
+  "customerStats": {
+    "newCustomers": 234,
+    "returningCustomers": 1013,
+    "avgRating": 4.6,
+    "filterUsageRate": 67.3
+  },
+  "latestOrders": [
+    {
+      "id": "ORD-9031",
+      "client": "Sara B.",
+      "amount": 142,
+      "status": "Confirmee",
+      "time": "12:14"
+    },
+    {
+      "id": "ORD-9032",
+      "client": "Nabil A.",
+      "amount": 74,
+      "status": "Preparation",
+      "time": "12:19"
+    },
+    {
+      "id": "ORD-9033",
+      "client": "Hajar K.",
+      "amount": 98,
+      "status": "Servie",
+      "time": "12:22"
+    },
+    {
+      "id": "ORD-9034",
+      "client": "Youssef D.",
+      "amount": 63,
+      "status": "Preparation",
+      "time": "12:27"
+    },
+    {
+      "id": "ORD-9035",
+      "client": "Meryem T.",
+      "amount": 116,
+      "status": "Confirmee",
+      "time": "12:31"
+    },
+    {
+      "id": "ORD-9036",
+      "client": "Khalid R.",
+      "amount": 89,
+      "status": "Servie",
+      "time": "12:38"
+    },
+    {
+      "id": "ORD-9037",
+      "client": "Amine C.",
+      "amount": 57,
+      "status": "Confirmee",
+      "time": "12:44"
+    },
+    {
+      "id": "ORD-9038",
+      "client": "Asmae H.",
+      "amount": 132,
+      "status": "Preparation",
+      "time": "12:49"
+    },
+    {
+      "id": "ORD-9039",
+      "client": "Rachid M.",
+      "amount": 76,
+      "status": "Servie",
+      "time": "12:54"
+    },
+    {
+      "id": "ORD-9040",
+      "client": "Salma E.",
+      "amount": 104,
+      "status": "Confirmee",
+      "time": "12:58"
+    }
+  ]
+}

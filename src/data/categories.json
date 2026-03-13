@@ -1,0 +1,37 @@
+[
+  {
+    "id": "plats-marocains",
+    "label": "Plats Marocains",
+    "emoji": "tagine",
+    "count": 8,
+    "description": "Tajines, couscous et recettes patrimoniales."
+  },
+  {
+    "id": "plats-rapides",
+    "label": "Plats Rapides",
+    "emoji": "burger",
+    "count": 6,
+    "description": "Burgers, wraps et sandwichs rapides."
+  },
+  {
+    "id": "boissons",
+    "label": "Boissons",
+    "emoji": "cup-soda",
+    "count": 6,
+    "description": "Jus frais, cafes, thes et smoothies."
+  },
+  {
+    "id": "desserts",
+    "label": "Desserts",
+    "emoji": "ice-cream-bowl",
+    "count": 6,
+    "description": "Patisseries, fruits et glaces maison."
+  },
+  {
+    "id": "entrees",
+    "label": "Entrees",
+    "emoji": "salad",
+    "count": 4,
+    "description": "Soupes, salades et bouchees."
+  }
+]
