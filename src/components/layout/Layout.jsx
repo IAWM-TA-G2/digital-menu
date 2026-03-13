@@ -1,6 +1,7 @@
 import { Outlet } from "react-router-dom";
 import Header from "./Header";
 import Footer from "./Footer";
+import RecommendationAssistant from "../recommendation/RecommendationAssistant";
 
 const Layout = () => (
   <div className="min-h-screen bg-neutral-50 text-neutral-800 font-sans">
@@ -9,6 +10,7 @@ const Layout = () => (
       <Outlet />
     </main>
     <Footer />
+    <RecommendationAssistant />
   </div>
 );
 
