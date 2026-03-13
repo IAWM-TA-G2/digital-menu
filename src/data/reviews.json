@@ -1,0 +1,66 @@
+[
+  {
+    "id": "rev-001",
+    "dishId": "dish-001",
+    "author": "Sara B.",
+    "rating": 5,
+    "comment": "Saveur authentique et tres bien epice. Service rapide.",
+    "date": "2026-03-08"
+  },
+  {
+    "id": "rev-002",
+    "dishId": "dish-001",
+    "author": "Yassine K.",
+    "rating": 4,
+    "comment": "Tres bon tajine, olives bien dosees.",
+    "date": "2026-03-04"
+  },
+  {
+    "id": "rev-003",
+    "dishId": "dish-003",
+    "author": "Imane R.",
+    "rating": 5,
+    "comment": "Le couscous royal est genereux et delicieux.",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "rev-004",
+    "dishId": "dish-014",
+    "author": "Hamza D.",
+    "rating": 5,
+    "comment": "Le double smash est parfait quand on a tres faim.",
+    "date": "2026-03-07"
+  },
+  {
+    "id": "rev-005",
+    "dishId": "dish-024",
+    "author": "Nora T.",
+    "rating": 4,
+    "comment": "Glace originale, texture cremeuse.",
+    "date": "2026-03-06"
+  },
+  {
+    "id": "rev-006",
+    "dishId": "dish-027",
+    "author": "Adil M.",
+    "rating": 5,
+    "comment": "Harira excellente, gout maison confirme.",
+    "date": "2026-03-03"
+  },
+  {
+    "id": "rev-007",
+    "dishId": "dish-011",
+    "author": "Lina E.",
+    "rating": 4,
+    "comment": "Wrap leger et pratique pendant la pause dej.",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "rev-008",
+    "dishId": "dish-016",
+    "author": "Omar A.",
+    "rating": 5,
+    "comment": "Le the est servi dans les regles de l'art.",
+    "date": "2026-03-01"
+  }
+]
